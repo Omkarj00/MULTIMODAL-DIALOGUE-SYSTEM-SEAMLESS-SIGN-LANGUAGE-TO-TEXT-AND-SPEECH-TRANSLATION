@@ -28,7 +28,18 @@ This project aims to create an advanced and reliable system for sign language re
 
 ## Sign Language to Text Conversion:
 - **Workflow**:
-  - Input Layer: Real-time gesture input via webcam.
+  - Input Layer: Real-time gesture input via webcam using Open CV.
   - Preprocessing: Grayscale conversion, noise reduction (Gaussian blur), adaptive thresholding, and resizing to 128×128 pixels for uniformity.
+- **CNN Architecture**:
+  - Convolutional layers extract features (e.g., edges, textures).
+  - Max pooling reduces dimensionality while retaining key features.
+  - Softmax outputs gesture probabilities.
+- **Output Layer**:
+  - Displays recognized letters and combines them into words.
+ 
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Sign%20to%20text.png)
 
+## Text to Sign Language Conversion:
+- **Workflow** :
+- 
 
