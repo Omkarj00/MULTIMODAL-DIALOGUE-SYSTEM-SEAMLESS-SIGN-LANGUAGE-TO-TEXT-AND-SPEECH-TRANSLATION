@@ -47,6 +47,7 @@ This project aims to create an advanced and reliable system for sign language re
   - Convert images to grayscale.
   - Apply Gaussian blur to reduce noise.
   - Use adaptive thresholding to segment the hand from the background.
+ 
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/testing%20data%20collection.jpg)
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/training%20data%20collection.jpg)
 
