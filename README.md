@@ -7,3 +7,4 @@ Our system employs CNN and RNN models for gesture recognition and achieves an ac
 
 Final Outcome Of Our Project :
 
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/UI.jpg)
