@@ -26,4 +26,9 @@ This project aims to create an advanced and reliable system for sign language re
 - **User-Friendly Interface**:  
   Design a user-friendly interface that allows for a seamless transition between spoken and sign language modes.  
 
+## Sign Language to Text Conversion:
+- **Workflow**:
+  - Input Layer: Real-time gesture input via webcam.
+  - Preprocessing: Grayscale conversion, noise reduction (Gaussian blur), adaptive thresholding, and resizing to 128×128 pixels for uniformity.
+
 
