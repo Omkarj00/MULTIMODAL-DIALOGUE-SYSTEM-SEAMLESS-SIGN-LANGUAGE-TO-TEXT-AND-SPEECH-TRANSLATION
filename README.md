@@ -40,6 +40,16 @@ This project aims to create an advanced and reliable system for sign language re
  
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Sign%20to%20text.png)
 
+## Data Collection :
+- A custom dataset of ISL gestures was created using a webcam.
+- Each frame was captured in a defined Region of Interest (ROI) for precise gesture detection.
+- Preprocessing:
+  - Convert images to grayscale.
+  - Apply Gaussian blur to reduce noise.
+  - Use adaptive thresholding to segment the hand from the background.
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/testing%20data%20collection.jpg)
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/training%20data%20collection.jpg)
+
 ## Text to Sign Language Conversion:
 - **Input Layer** :
   - Text input via text box or speech input using Web Speech API.
@@ -67,3 +77,28 @@ This project aims to create an advanced and reliable system for sign language re
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/sign%20recoganisation.png)
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Text%20to%20sign%20.jpg)
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/sign%20animations.jpg)
+
+# Running the Project :
+Follow the steps below to set up and run the project:  
+### 1. Install Dependencies  
+Use `pip` to install the required dependencies:  
+
+```bash
+pip install numpy opencv-python tensorflow keras tk Pillow
+```
+### 2. Clone the Repository :
+Clone this repository to your local machine and navigate to the project directory:
+
+```bash
+git clone https://github.com/your_username/multimodal-dialogue-system.git  
+cd multimodal-dialogue-system
+```
+
+### 3. Run the Application :
+Run the Application
+
+```bash
+python main.py
+```
+
+
