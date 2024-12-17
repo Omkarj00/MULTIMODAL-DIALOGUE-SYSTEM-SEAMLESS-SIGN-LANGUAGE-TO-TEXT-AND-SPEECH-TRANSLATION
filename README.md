@@ -41,6 +41,15 @@ This project aims to create an advanced and reliable system for sign language re
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Sign%20to%20text.png)
 
 ## Text to Sign Language Conversion:
-- **Workflow** :
-- 
-
+- **Input Layer** :
+  - Text input via text box or speech input using Web Speech API.
+- **Processing Layer**:
+  - Speech recognition and text preprocessing (tokenization, stopword removal).
+- **Mapping Layer**:
+  - Map preprocessed text to Indian Sign Language (ISL) gestures using a predefined lexicon.
+- **3D Animation Layer**:
+  - Generate ISL animations using Blender.
+- **Output Layer**:
+  - Display animations for real-time communication.
+ 
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Text%20to%20sign.png)
