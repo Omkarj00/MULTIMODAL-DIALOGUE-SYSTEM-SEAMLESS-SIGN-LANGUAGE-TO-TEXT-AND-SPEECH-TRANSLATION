@@ -53,3 +53,17 @@ This project aims to create an advanced and reliable system for sign language re
   - Display animations for real-time communication.
  
 ![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Text%20to%20sign.png)
+
+# Technologies Used:
+-Programming Languages: Python
+- Deep Learning Frameworks: TensorFlow, Keras
+- Computer Vision Libraries: OpenCV
+- Speech and NLP: Google Text-to-Speech API, Web Speech API, NLTK
+- Animation: Blender 3D
+- GUI Development: Tkinter
+
+# Screenshots :
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/UI.jpg)
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/sign%20recoganisation.png)
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/Text%20to%20sign%20.jpg)
+![](https://github.com/Omkarj00/MULTIMODAL-DIALOGUE-SYSTEM-SEAMLESS-SIGN-LANGUAGE-TO-TEXT-AND-SPEECH-TRANSLATION/blob/main/Images/sign%20animations.jpg)
