@@ -27,9 +27,10 @@ This project aims to create an advanced and reliable system for sign language re
   Design a user-friendly interface that allows for a seamless transition between spoken and sign language modes.  
 
 ## Sign Language to Text Conversion:
-- **Workflow**:
-  - Input Layer: Real-time gesture input via webcam using Open CV.
-  - Preprocessing: Grayscale conversion, noise reduction (Gaussian blur), adaptive thresholding, and resizing to 128×128 pixels for uniformity.
+- **Input Layer**:
+  -  Real-time gesture input via webcam using Open CV.
+- **Preprocessing**:
+  -  Grayscale conversion, noise reduction (Gaussian blur), adaptive thresholding, and resizing to 128×128 pixels for uniformity.
 - **CNN Architecture**:
   - Convolutional layers extract features (e.g., edges, textures).
   - Max pooling reduces dimensionality while retaining key features.
